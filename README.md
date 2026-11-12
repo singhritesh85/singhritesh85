@@ -106,7 +106,6 @@ At **Explicate DevOps**, I create content about:
 
 - 🎤 Guest sessions and technical webinars
 - 🤝 DevOps project collaborations
-- 🎥 YouTube collaborations
 - 💼 DevOps consulting
 - 🧭 Technical mentorship
 

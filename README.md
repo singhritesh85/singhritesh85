@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/singhritesh85/singhritesh85/main/explicate-devops-2026-11-12%20215526.jpg" alt="Explicate DevOps Banner" />
+</div>
+
+<div align="center">
 
 ## 👋 Meet Ritesh Kumar Singh  
 
@@ -9,10 +13,6 @@
 I'm a passionate **Linux Administrator cum Cloud DevOps Engineer** dedicated to making infrastructure robust, automated, and secure. Whether it's architecting multi-cloud environments on AWS, Azure, and GCP, or building seamless CI/CD pipelines and GitOps workflows.
 
 Through my platform, **Explicate DevOps**, I actively share DevOps Projects, configuration guides for IT Organisations at no cost.
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/singhritesh85/singhritesh85/main/explicate-devops-2026-11-12%20215526.jpg" alt="Explicate DevOps Banner" />
-</div>
 
 ## 🎯 Mission & Approach
 

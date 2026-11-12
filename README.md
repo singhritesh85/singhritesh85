@@ -1,6 +1,7 @@
 <div align="center">
 
-## 👋 Meet Ritesh Kumar Singh
+## 👋 Meet Ritesh Kumar Singh        <img width="517" height="582" alt="image" src="https://github.com/user-attachments/assets/c1bf805c-46cf-4911-a704-59e8e5a1a60b" />
+
 
 </div>
 

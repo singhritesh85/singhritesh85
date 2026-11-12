@@ -11,7 +11,7 @@ I'm a passionate **Linux Administrator cum Cloud DevOps Engineer** dedicated to 
 Through my platform, **Explicate DevOps**, I actively share DevOps Projects, configuration guides for IT Organisations at no cost.
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/singhritesh85/singhritesh85/main/Explicate-DevOps-12-11-26.jpg" alt="Explicate DevOps Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/singhritesh85/singhritesh85/main/explicate-devops-2026-11-12%20215526.jpg" alt="Explicate DevOps Banner" />
 </div>
 
 ## 🎯 Mission & Approach

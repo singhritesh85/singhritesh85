@@ -116,9 +116,6 @@ At **Explicate DevOps**, I create content about:
 ## `You can connect with me`
 
 <p align="center">
-  <a href="https://github.com/singhritesh85" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://linkedin.com/in/ritesh-kumar-singh-41113128b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

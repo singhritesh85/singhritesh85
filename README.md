@@ -163,6 +163,6 @@ Build • Automate • Secure • Scale
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=RHEL,CentOS,AlmaLinux,Rocky_Linux,Ubuntu&perline=12" />
+  <img src="https://skillicons.dev/icons?i=RHEL,CentOS,AlmaLinux,Rocky_Linux,Ubuntu-E95420&perline=12" />
 </p>
 </div>

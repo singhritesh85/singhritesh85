@@ -56,18 +56,7 @@ I am a passionate **Linux Administrator cum Cloud DevOps Engineer from India** i
 
 At **Explicate DevOps**, I create content about:
 
-```text
-├── Linux and Shell Scripting
-├── Git, GitHub and GitLab
-├── Jenkins, Azure DevOps and GitLab CI/CD
-├── Docker and Containerization
-├── Kubernetes, EKS, AKS and GKE
-├── Terraform, OpenTofu and Ansible
-├── AWS, Microsoft Azure and Google Cloud Platform
-├── ArgoCD and GitOps
-├── DevSecOps Tools and Practices
-├── Prometheus, Grafana, Loki and OpenTelemetry
-```
+
 
 ---
 

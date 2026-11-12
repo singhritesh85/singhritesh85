@@ -6,7 +6,7 @@
 
 I'm a passionate **Linux Administrator and Cloud DevOps Engineer** dedicated to making infrastructure robust, automated, and secure. Whether it's architecting multi-cloud environments on AWS, Azure, and GCP, or building seamless CI/CD pipelines and GitOps workflows, I love solving complex technical challenges.
 
-Through my platform, **Explicate DevOps**, I actively share practical tutorials, configuration guides for IT Organisations at no cost.
+Through my platform, **Explicate DevOps**, I actively share DevOps Projects, configuration guides for IT Organisations at no cost.
 
 ## 🎯 Mission & Approach
 

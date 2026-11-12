@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey Everyone 👋, I'm Ritesh Kumar Singh
+# Meet me 👋, I am Ritesh Kumar Singh
 
 ### Linux Administrator cum Cloud DevOps Engineer · Explicate DevOps
 

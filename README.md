@@ -162,7 +162,4 @@ Build • Automate • Secure • Scale
 <img src="https://img.shields.io/badge/Rocky_Linux-101010?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Rocky Linux" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=redhat,centos,ubuntu" alt="Linux OS" />
-</p>
 </div>

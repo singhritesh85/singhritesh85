@@ -152,7 +152,7 @@ Build • Automate • Secure • Scale
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 🐧 Linux Operating Systems Distributions
 
@@ -163,6 +163,6 @@ Build • Automate • Secure • Scale
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=RHEL,CentOS,AlmaLinux,Rocky_Linux,Ubuntu&perline=12" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=RHEL,CentOS,AlmaLinux,Rocky_Linux,Ubuntu&perline=12" />
 </p>
 </div>

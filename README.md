@@ -85,28 +85,10 @@ At **Explicate DevOps**, I create content about:
 
 ---
 
-## `GitHub Profile Summary`
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/singhritesh85?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/last-commit/singhritesh85/singhritesh85?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile repository last commit" />
-</p>
-
----
-
-## `Git Streak`
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=singhritesh85&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
-## `Git Log Graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhritesh85&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=singhritesh85&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=singhritesh85&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=singhritesh85&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
@@ -161,10 +143,6 @@ Build • Automate • Secure • Scale
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=singhritesh85&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=singhritesh85&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=singhritesh85&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=singhritesh85&icon=0&color=0)](https://visitcount.itsvg.in)

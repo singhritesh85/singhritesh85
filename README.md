@@ -56,7 +56,18 @@ I am a passionate **Linux Administrator cum Cloud DevOps Engineer from India** i
 
 At **Explicate DevOps**, I create content about:
 
-
+```text
+├── Linux and Shell Scripting
+├── Git, GitHub and GitLab
+├── Jenkins, Azure DevOps and GitLab CI/CD
+├── Docker and Containerization
+├── Kubernetes, EKS, AKS and GKE
+├── Terraform, OpenTofu and Ansible
+├── AWS, Microsoft Azure and Google Cloud Platform
+├── ArgoCD and GitOps
+├── DevSecOps Tools and Practices
+├── Prometheus, Grafana, Loki and OpenTelemetry
+```
 
 ---
 
@@ -69,7 +80,7 @@ At **Explicate DevOps**, I create content about:
 
 ---
 
-## `git streak`
+## `Git Streak`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=singhritesh85&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
@@ -77,7 +88,7 @@ At **Explicate DevOps**, I create content about:
 
 ---
 
-## `git log graph`
+## `Git Log Graph`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhritesh85&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
@@ -107,8 +118,11 @@ At **Explicate DevOps**, I create content about:
   </a>
   <a href="https://instagram.com/riteshkumarsingh9559">
   </a>
+  <a href=" https://x.com/singhriteshkum">
+  </a>
   <a href="mailto:riteshkumarsingh9559@gmail.com">
   </a>
+  
 </p>
 
 ---

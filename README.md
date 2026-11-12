@@ -44,7 +44,9 @@ I am a passionate **Linux Administrator cum Cloud DevOps Engineer from India**, 
 ### Cloud, DevOps and Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,azuredevops,terraform,opentofu,ansible,git,github,gitlab,linux,bash&perline=12" alt="Cloud and Infrastructure Icons" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12" alt="Skill Icons" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/OpenTofu-FFDE57?style=for-the-badge&logo=opentofu&logoColor=black" alt="OpenTofu" />
 </p>
 
 ### DevOps Ecosystem

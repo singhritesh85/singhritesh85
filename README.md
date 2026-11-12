@@ -2,6 +2,8 @@
 
 ## 👋 Meet Ritesh Kumar Singh
 
+</div>
+
 I'm a passionate **Linux Administrator and Cloud DevOps Engineer** dedicated to making infrastructure robust, automated, and secure. Whether it's architecting multi-cloud environments on AWS, Azure, and GCP, or building seamless CI/CD pipelines and GitOps workflows, I love solving complex technical challenges.
 
 Through my platform, **Explicate DevOps**, I actively share practical tutorials, configuration guides for IT Organisations at no cost.
@@ -26,8 +28,6 @@ My core mission is **to help organizations implement DevOps in their projects wi
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
 </p>
-
-</div>
 
 ---
 

@@ -105,7 +105,7 @@ At **Explicate DevOps**, I create content about:
 ## `Git Log Graph`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhritesh85&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhritesh85&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
 </p>
 
 ---

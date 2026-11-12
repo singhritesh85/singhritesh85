@@ -113,7 +113,7 @@ At **Explicate DevOps**, I create content about:
 
 ---
 
-## `You can connect with me`
+## `You can connect with me on`
 
 <p align="center">
   <a href="https://linkedin.com/in/ritesh-kumar-singh-41113128b" target="_blank">

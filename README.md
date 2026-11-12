@@ -4,7 +4,7 @@
 
 </div>
 
-<img width="517" height="582" alt="image" src="https://github.com/user-attachments/assets/c33bc741-c990-4891-92fe-df31ccbc4a8b" />
+<img width="207" height="252" alt="image" src="https://github.com/user-attachments/assets/c33bc741-c990-4891-92fe-df31ccbc4a8b" />
 
 ## 👨‍💻 About Me
 

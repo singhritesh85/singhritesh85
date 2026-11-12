@@ -4,6 +4,8 @@
 
 </div>
 
+## 👨‍💻 About Me
+
 I'm a passionate **Linux Administrator and Cloud DevOps Engineer** dedicated to making infrastructure robust, automated, and secure. Whether it's architecting multi-cloud environments on AWS, Azure, and GCP, or building seamless CI/CD pipelines and GitOps workflows, I love solving complex technical challenges.
 
 Through my platform, **Explicate DevOps**, I actively share DevOps Projects, configuration guides for IT Organisations at no cost.
@@ -36,10 +38,6 @@ My core mission is **to help organizations implement DevOps in their projects wi
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
-I am a passionate **Linux Administrator cum Cloud DevOps Engineer from India**, specializing in scalable cloud infrastructure, automation, CI/CD pipelines, DevSecOps, and modern software delivery workflows.
 
 - 👨‍💻 **Projects:** [github.com/singhritesh85](https://github.com/singhritesh85)
 - 💬 **Ask me about:** DevOps, DevSecOps, AWS, Azure, GCP, Kubernetes, and CI/CD

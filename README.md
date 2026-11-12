@@ -150,7 +150,7 @@ Build • Automate • Secure • Scale
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riteshkumarsingh9559) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshkumarsingh9559@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/singhriteshkum) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshkumarsingh9559@gmail.com) 
 
-# <img width="40" height="45" alt="image" src="https://github.com/user-attachments/assets/5632c676-4aae-4c1f-9235-0fca03304484" /> Cloud Platforms:
+# <img width="40" height="20" alt="image" src="https://github.com/user-attachments/assets/5632c676-4aae-4c1f-9235-0fca03304484" /> Cloud Platforms:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---

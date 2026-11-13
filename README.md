@@ -37,8 +37,6 @@ My core mission is **to help IT Organizations implement DevOps in their projects
 
 ---
 
----
-
 - 👨‍💻 **Projects:** [github.com/singhritesh85](https://github.com/singhritesh85)
 - 💬 **Ask me about:** DevOps, DevSecOps, AWS, Azure, GCP, Kubernetes, and CI/CD
 - 📧 **Email:** [riteshkumarsingh9559@gmail.com](mailto:riteshkumarsingh9559@gmail.com)

@@ -74,8 +74,6 @@ My core mission is **to help IT Organizations implement DevOps in their projects
 ### <img width="40" height="30" alt="image" src="https://github.com/user-attachments/assets/5632c676-4aae-4c1f-9235-0fca03304484" /> Cloud Platforms:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-
 <div align="left">
 
 ### 🐧 Linux Operating Systems Distributions
@@ -87,6 +85,8 @@ My core mission is **to help IT Organizations implement DevOps in their projects
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
 </div>
+
+---
 
 ## 🚀 Explicate DevOps Content
 

@@ -138,7 +138,7 @@ At **Explicate DevOps**, I create content about:
 
 <div align="center">
 
-### Helping Organisations to implement DevOps with ease in their projects at no cost.
+### Helping IT Organisations to implement DevOps with ease in their projects at no cost.
 
 ```text
 Build • Automate • Secure • Scale

@@ -16,7 +16,7 @@ Through my platform, **Explicate DevOps**, I actively share DevOps Projects, con
 
 ## 🎯 Mission & Approach
 
-My core mission is **to help organizations implement DevOps in their projects with ease at no cost**.
+My core mission is **to help IT Organizations implement DevOps in their projects with ease at no cost**.
 
 ### Linux Administrator cum Cloud DevOps Engineer · Explicate DevOps
 
@@ -144,7 +144,7 @@ At **Explicate DevOps**, I create content about:
 Build • Automate • Secure • Scale
 ```
 
-**⭐ Follow [singhritesh85](https://github.com/singhritesh85) for practical DevOps projects**
+**⭐ Follow [singhritesh85](https://github.com/singhritesh85) for DevOps projects**
 
 </div>
 

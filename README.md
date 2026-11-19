@@ -120,7 +120,7 @@ At **Explicate DevOps**, I create content about:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=singhritesh85&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=singhritesh85&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=singhritesh85&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+username=singhritesh85&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhritesh85&theme=tokyo-night&hide_border=true&area=true&bg_color=ffffff&color=24292e&line=0366d6&point=24292e" width="100%" alt="GitHub contribution graph" />
 </p>
